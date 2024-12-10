@@ -1,15 +1,15 @@
-startYear;startMonth;startDay;startTime;endYear;endMonth;endDay;endTime;displayDate;headline;text;mediaURL;mediaCredit;mediaCaption;mediaThumbnail;Alt Text;type;group;backgroundUrl
-;;;;;;;;;Google Spreadsheet Example;This is a test of using google spreadsheets as a source for the timeline tool. This is a 'title' slide, so it doesn't need a date. It automatically occurs first, and doesn't appear in the timeline below.;https://www.flickr.com/photos/zachwise/6115056146/in/photostream;Zach Wise/verite.co;"<a href=""http://www.flickr.com/photos/zachwise/6115056146/"" title=""Chicago by zach.wise, on Flickr"">Chicago by zach.wise</a>";;;title;;
-1990;11;1;;2011;12;15;;;Año del lanzamiento;Lanzaron el primer producto;https://www.flickr.com/photos/zachwise/6894476777/in/photostream;Zach Wise/verite.co;Chicago to NYC;;;;;#333333
-1992;11;16;05:58:44;2011;11;16;07:30:00;;Primer proyecto;Un versión mejorada;https://vimeo.com/143407878;Knight Lab;A video about how to make timelines!;;;;;https://knightlab.northwestern.edu/wp-content/uploads/2015/03/front-page-image.jpg
-1995;1;;;;;;;;Prueba;Nuestro éxito;;;;;;;;
-1997;12;;;;;;;;Tercer proyecto;;;;;;;;;
-1998;2;;;;;;;;Cuatro proyecto;;;;;;;;;
-1999;5;;;;;;;;Quinto proyecto;;;;;;;;;
-2003;6;;;;;;;;Sexto proyecto;;;;;;;;;
-2005;8;;;;;;;;Septimo proyecto;;;;;;;;;
-2010;9;;;;;;;;Octavo proyecto;;;;;;;;;
-2015;1;;;;;;;;Noveno proyecti;;;;;;;;;
-2017;11;;;;;;;;Décimo proyecto;;;;;;;;;
-2018;12;;;;;;;;Undécimo proyecto;;;;;;;;;
-2022;3;;;;;;;;Duodécimo proyecto;;;;;;;;;
+startYear,startMonth,startDay,startTime,endYear,endMonth,endDay,endTime,displayDate,headline,text,mediaURL,mediaCredit,mediaCaption,mediaThumbnail,Alt Text,type,group,backgroundUrl
+,,,,,,,,,Google Spreadsheet Example,This is a test of using google spreadsheets as a source for the timeline tool. This is a 'title' slide  so it doesn't need a date. It automatically occurs first  and doesn't appear in the timeline below.,https://www.flickr.com/photos/zachwise/6115056146/in/photostream,Zach Wise/verite.co,"<a href=""http://www.flickr.com/photos/zachwise/6115056146/"" title=""Chicago by zach.wise  on Flickr"">Chicago by zach.wise</a>",,,title,,
+1990,11,1,,2011,12,15,,,Año del lanzamiento,Lanzaron el primer producto,https://www.flickr.com/photos/zachwise/6894476777/in/photostream,Zach Wise/verite.co,Chicago to NYC,,,,,#333333
+1992,11,16,05:58:44,2011,11,16,07:30:00,,Primer proyecto,Un versión mejorada,https://vimeo.com/143407878,Knight Lab,A video about how to make timelines!,,,,,https://knightlab.northwestern.edu/wp-content/uploads/2015/03/front-page-image.jpg
+1995,1,,,,,,,,Prueba,Nuestro éxito,,,,,,,,
+1997,12,,,,,,,,Tercer proyecto,,,,,,,,,
+1998,2,,,,,,,,Cuatro proyecto,,,,,,,,,
+1999,5,,,,,,,,Quinto proyecto,,,,,,,,,
+2003,6,,,,,,,,Sexto proyecto,,,,,,,,,
+2005,8,,,,,,,,Septimo proyecto,,,,,,,,,
+2010,9,,,,,,,,Octavo proyecto,,,,,,,,,
+2015,1,,,,,,,,Noveno proyecti,,,,,,,,,
+2017,11,,,,,,,,Décimo proyecto,,,,,,,,,
+2018,12,,,,,,,,Undécimo proyecto,,,,,,,,,
+2022,3,,,,,,,,Duodécimo proyecto,,,,,,,,,
